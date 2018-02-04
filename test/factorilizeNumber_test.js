@@ -26,10 +26,19 @@ describe('factorilizeNumber', function () {
     });
 });
 
+
 describe('factorilizeNumber', function () {
     it('factorilizes the number', function () {
-        var result = factorilizeNumber(1000);
-        assert.equal(result, Infinity, 'factorilizeNumber(1000) is Infinity');
+        var result = factorilizeNumber(20);
+        assert.equal(result, 2432902008176640000, 'factorilizeNumber(20) is 2432902008176640000');
     });
 });
+
+describe('factorilizeNumber', function () {
+    it('factorilizes the number', function () {
+        var result = factorilizeNumber(10);
+        assert.equal(result, 3628800, 'factorilizeNumber(10) is 3628800');
+    });
+});
+
 
