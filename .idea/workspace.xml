@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5977255-206c-4d81-a0ca-e6d0ac0a8a9b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/titleCaseSentence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/titleCaseSentence_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/largestArrayofArrays.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/largestArrayofArrays_test.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/longestWordinString.js" afterPath="$PROJECT_DIR$/src/longestWordinString.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/longestWordinString_test.js" afterPath="$PROJECT_DIR$/test/longestWordinString_test.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,6 +16,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="titleCaseSentence_test.js" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/test/titleCaseSentence_test.js">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="404">
+                    <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="27" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
@@ -27,11 +44,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="444">
               <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <marker date="1517732435387" expanded="true" signature="0:41" ph="/** Created by Andre on 1/28/2018. ...*/" />
-                <marker date="1517732435387" expanded="true" signature="87:204" ph="{...}" />
-                <marker date="1517732435387" expanded="true" signature="145:184" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -46,21 +59,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="titleCaseSentence_test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/titleCaseSentence_test.js">
+      <file leaf-file-name="largestArrayofArrays.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/largestArrayofArrays.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="27" />
+            <state relative-caret-position="394">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="titleCaseSentence.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/titleCaseSentence.js">
+      <file leaf-file-name="largestArrayofArrays_test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/largestArrayofArrays_test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="541">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,29 +99,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="factorilizeNumber.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factorilizeNumber.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-              <folding>
-                <marker date="1517726494764" expanded="false" signature="0:41" ph="/** Created by Family on 2/3/2018. ...*/" />
-                <marker date="1517726494764" expanded="true" signature="91:216" ph="{...}" />
-                <marker date="1517726494764" expanded="true" signature="150:192" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="factorilizeNumberRecursion.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/factorilizeNumberRecursion.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="444">
               <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <marker date="1518336136703" expanded="true" signature="0:41" ph="/** Created by Family on 2/3/2018. ...*/" />
-                <marker date="1518336136703" expanded="true" signature="100:235" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -118,19 +114,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="111">
               <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding>
-                <marker date="1518329237391" expanded="true" signature="0:41" ph="/** Created by Andre on 2/10/2018. ...*/" />
-                <marker date="1518329237391" expanded="true" signature="209:414" ph="{...}" />
-                <marker date="1518329237391" expanded="true" signature="273:410" ph="{...}" />
-                <marker date="1518329237391" expanded="true" signature="469:642" ph="{...}" />
-                <marker date="1518329237391" expanded="true" signature="517:638" ph="{...}" />
-                <marker date="1518329237391" expanded="true" signature="697:870" ph="{...}" />
-                <marker date="1518329237391" expanded="true" signature="745:866" ph="{...}" />
-                <marker date="1518329237391" expanded="true" signature="926:1137" ph="{...}" />
-                <marker date="1518329237391" expanded="true" signature="974:1133" ph="{...}" />
-                <marker date="1518329237391" expanded="true" signature="1192:1379" ph="{...}" />
-                <marker date="1518329237391" expanded="true" signature="1240:1375" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -169,6 +153,8 @@
         <option value="$PROJECT_DIR$/src/longestWordinString.js.js" />
         <option value="$PROJECT_DIR$/test/titleCaseSentence_test.js" />
         <option value="$PROJECT_DIR$/src/titleCaseSentence.js" />
+        <option value="$PROJECT_DIR$/test/largestArrayofArrays_test.js" />
+        <option value="$PROJECT_DIR$/src/largestArrayofArrays.js" />
       </list>
     </option>
   </component>
@@ -185,7 +171,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
+    <option name="x" value="2549" />
     <option name="y" value="-11" />
     <option name="width" value="2582" />
     <option name="height" value="1042" />
@@ -225,20 +211,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Tests">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="javascript">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -282,6 +254,20 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Tests">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="javascript">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -306,14 +292,14 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\repo\algorithms\algorithm_javascript\src" />
-      <recent name="C:\repo\algorithms\algorithm_javascript\test" />
-      <recent name="C:\repo\algorithms\javascript\test" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\repo\algorithms\javascript" />
       <recent name="C:\repo\algorithms\javascript\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\repo\algorithms\algorithm_javascript\test" />
+      <recent name="C:\repo\algorithms\algorithm_javascript\src" />
+      <recent name="C:\repo\algorithms\javascript\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -328,7 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.test\titleCaseSentence_test.js">
+  <component name="RunManager" selected="Mocha.test\largestArrayofArrays_test.js">
     <configuration default="false" name="pallindrome.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/src/palindrome.js" working-dir="$PROJECT_DIR$/src">
       <method />
     </configuration>
@@ -515,7 +501,19 @@
       <test-file>$PROJECT_DIR$/test/longestWordinString_test.js</test-file>
       <method />
     </configuration>
-    <list size="13">
+    <configuration default="false" name="test\largestArrayofArrays_test.js" type="mocha-javascript-test-runner" factoryName="Mocha" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/largestArrayofArrays_test.js</test-file>
+      <method />
+    </configuration>
+    <list size="14">
       <item index="0" class="java.lang.String" itemvalue="JsTestDriver.Unnamed" />
       <item index="1" class="java.lang.String" itemvalue="JsTestDriver.reverse-string_test" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.test_algo" />
@@ -529,6 +527,7 @@
       <item index="10" class="java.lang.String" itemvalue="Node.js.factorilizeNumberRecursion.js" />
       <item index="11" class="java.lang.String" itemvalue="Node.js.longestWordinString.js" />
       <item index="12" class="java.lang.String" itemvalue="Mocha.test\titleCaseSentence_test.js" />
+      <item index="13" class="java.lang.String" itemvalue="Mocha.test\largestArrayofArrays_test.js" />
     </list>
     <recent_temporary>
       <list size="5">
@@ -558,7 +557,8 @@
       <workItem from="1517728257297" duration="5176000" />
       <workItem from="1517784970949" duration="16523000" />
       <workItem from="1519361731241" duration="3242000" />
-      <workItem from="1519519361730" duration="8878000" />
+      <workItem from="1519519361730" duration="9558000" />
+      <workItem from="1520315734440" duration="2325000" />
     </task>
     <task id="LOCAL-00001" summary="additional factorial tests">
       <created>1517728491309</created>
@@ -571,23 +571,23 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test_longestWordinString_test_js - 2018.02.24 at 22h 12m 29s.xml">
-      <configuration name="test\longestWordinString_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_largestArrayofArrays_test_js - 2018.03.05 at 22h 15m 51s.xml">
+      <configuration name="test\largestArrayofArrays_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_titleCaseSentence_test_js - 2018.02.24 at 22h 01m 35s.xml">
-      <configuration name="test\titleCaseSentence_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_largestArrayofArrays_test_js - 2018.03.05 at 22h 17m 18s.xml">
+      <configuration name="test\largestArrayofArrays_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_titleCaseSentence_test_js - 2018.02.24 at 22h 03m 16s.xml">
-      <configuration name="test\titleCaseSentence_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_largestArrayofArrays_test_js - 2018.03.05 at 22h 27m 35s.xml">
+      <configuration name="test\largestArrayofArrays_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_titleCaseSentence_test_js - 2018.02.24 at 22h 09m 00s.xml">
-      <configuration name="test\titleCaseSentence_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_largestArrayofArrays_test_js - 2018.03.05 at 22h 28m 10s.xml">
+      <configuration name="test\largestArrayofArrays_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_titleCaseSentence_test_js - 2018.02.24 at 22h 11m 46s.xml">
-      <configuration name="test\titleCaseSentence_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_largestArrayofArrays_test_js - 2018.03.05 at 22h 30m 38s.xml">
+      <configuration name="test\largestArrayofArrays_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_titleCaseSentence_test_js - 2018.02.24 at 22h 12m 36s.xml">
-      <configuration name="test\titleCaseSentence_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_largestArrayofArrays_test_js - 2018.03.05 at 22h 33m 19s.xml">
+      <configuration name="test\largestArrayofArrays_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
     <history-entry file="test_titleCaseSentence_test_js - 2018.02.24 at 22h 13m 51s.xml">
       <configuration name="test\titleCaseSentence_test.js" configurationId="mocha-javascript-test-runner" />
@@ -603,20 +603,19 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48033000" />
+    <option name="totallyTimeSpent" value="51038000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="2582" height="1042" extended-state="6" />
+    <frame x="2549" y="-11" width="2582" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.249901" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39120096" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17598097" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24170616" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2413793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3983353" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -624,6 +623,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -653,30 +653,67 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/longestWordinString.js</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/titleCaseSentence.js</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/src/largestArrayofArrays.js</url>
+          <line>5</line>
           <properties />
-          <option name="timeStamp" value="6" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/palindrome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factorilizeNumber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factorilizeNumberRecursion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/factorilizeNumberRecursion_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/titleCaseSentence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/reverseString.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <marker date="1517732435387" expanded="true" signature="0:41" ph="/** Created by Andre on 1/28/2018. ...*/" />
-            <marker date="1517732435387" expanded="true" signature="87:204" ph="{...}" />
-            <marker date="1517732435387" expanded="true" signature="145:184" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -708,21 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
           <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <marker date="1517985136123" expanded="true" signature="0:42" ph="/** Created by Andre on 02/04/2018. ...*/" />
-            <marker date="1517985136123" expanded="true" signature="162:326" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="207:322" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="365:539" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="410:535" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="578:752" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="623:748" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="791:954" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="836:950" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="994:1171" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="1039:1167" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="1211:1381" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="1256:1377" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -731,9 +753,7 @@
         <state relative-caret-position="148">
           <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
           <folding>
-            <marker date="1517726494764" expanded="false" signature="0:41" ph="/** Created by Family on 2/3/2018. ...*/" />
-            <marker date="1517726494764" expanded="true" signature="91:216" ph="{...}" />
-            <marker date="1517726494764" expanded="true" signature="150:192" ph="{...}" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -742,10 +762,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <marker date="1518336136703" expanded="true" signature="0:41" ph="/** Created by Family on 2/3/2018. ...*/" />
-            <marker date="1518336136703" expanded="true" signature="100:235" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -753,19 +770,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <marker date="1518329237391" expanded="true" signature="0:41" ph="/** Created by Andre on 2/10/2018. ...*/" />
-            <marker date="1518329237391" expanded="true" signature="209:414" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="273:410" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="469:642" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="517:638" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="697:870" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="745:866" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="926:1137" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="974:1133" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="1192:1379" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="1240:1375" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2183">
           <caret line="59" column="62" lean-forward="false" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,11 +785,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding>
-            <marker date="1517732435387" expanded="true" signature="0:41" ph="/** Created by Andre on 1/28/2018. ...*/" />
-            <marker date="1517732435387" expanded="true" signature="87:204" ph="{...}" />
-            <marker date="1517732435387" expanded="true" signature="145:184" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -809,21 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
           <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <marker date="1517985136123" expanded="true" signature="0:42" ph="/** Created by Andre on 02/04/2018. ...*/" />
-            <marker date="1517985136123" expanded="true" signature="162:326" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="207:322" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="365:539" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="410:535" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="578:752" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="623:748" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="791:954" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="836:950" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="994:1171" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="1039:1167" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="1211:1381" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="1256:1377" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -832,9 +817,7 @@
         <state relative-caret-position="148">
           <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
           <folding>
-            <marker date="1517726494764" expanded="false" signature="0:41" ph="/** Created by Family on 2/3/2018. ...*/" />
-            <marker date="1517726494764" expanded="true" signature="91:216" ph="{...}" />
-            <marker date="1517726494764" expanded="true" signature="150:192" ph="{...}" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -843,19 +826,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <marker date="1518329237391" expanded="true" signature="0:41" ph="/** Created by Andre on 2/10/2018. ...*/" />
-            <marker date="1518329237391" expanded="true" signature="209:414" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="273:410" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="469:642" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="517:638" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="697:870" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="745:866" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="926:1137" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="974:1133" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="1192:1379" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="1240:1375" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -863,10 +834,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="17" />
-          <folding>
-            <marker date="1518336136703" expanded="true" signature="0:41" ph="/** Created by Family on 2/3/2018. ...*/" />
-            <marker date="1518336136703" expanded="true" signature="100:235" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -874,11 +842,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="17" />
-          <folding>
-            <marker date="1517732435387" expanded="true" signature="0:41" ph="/** Created by Andre on 1/28/2018. ...*/" />
-            <marker date="1517732435387" expanded="true" signature="87:204" ph="{...}" />
-            <marker date="1517732435387" expanded="true" signature="145:184" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -895,9 +859,7 @@
         <state relative-caret-position="259">
           <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
-            <marker date="1517726494764" expanded="false" signature="0:41" ph="/** Created by Family on 2/3/2018. ...*/" />
-            <marker date="1517726494764" expanded="true" signature="91:216" ph="{...}" />
-            <marker date="1517726494764" expanded="true" signature="150:192" ph="{...}" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -906,21 +868,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="814">
           <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-          <folding>
-            <marker date="1517985136123" expanded="true" signature="0:42" ph="/** Created by Andre on 02/04/2018. ...*/" />
-            <marker date="1517985136123" expanded="true" signature="162:326" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="207:322" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="365:539" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="410:535" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="578:752" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="623:748" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="791:954" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="836:950" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="994:1171" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="1039:1167" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="1211:1381" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="1256:1377" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -928,11 +875,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
           <caret line="9" column="5" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <marker date="1517732435387" expanded="true" signature="0:41" ph="/** Created by Andre on 1/28/2018. ...*/" />
-            <marker date="1517732435387" expanded="true" signature="87:204" ph="{...}" />
-            <marker date="1517732435387" expanded="true" signature="145:184" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -947,9 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -958,9 +898,7 @@
         <state relative-caret-position="370">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <marker date="1517726494764" expanded="false" signature="0:41" ph="/** Created by Family on 2/3/2018. ...*/" />
-            <marker date="1517726494764" expanded="true" signature="91:216" ph="{...}" />
-            <marker date="1517726494764" expanded="true" signature="150:192" ph="{...}" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -976,11 +914,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <marker date="1517732435387" expanded="true" signature="0:41" ph="/** Created by Andre on 1/28/2018. ...*/" />
-            <marker date="1517732435387" expanded="true" signature="87:204" ph="{...}" />
-            <marker date="1517732435387" expanded="true" signature="145:184" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -988,11 +922,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1517732435387" expanded="true" signature="0:41" ph="/** Created by Andre on 1/28/2018. ...*/" />
-            <marker date="1517732435387" expanded="true" signature="87:204" ph="{...}" />
-            <marker date="1517732435387" expanded="true" signature="145:184" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1000,11 +930,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1517732435387" expanded="true" signature="0:41" ph="/** Created by Andre on 1/28/2018. ...*/" />
-            <marker date="1517732435387" expanded="true" signature="87:204" ph="{...}" />
-            <marker date="1517732435387" expanded="true" signature="145:184" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1012,11 +938,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1517732435387" expanded="true" signature="0:41" ph="/** Created by Andre on 1/28/2018. ...*/" />
-            <marker date="1517732435387" expanded="true" signature="87:204" ph="{...}" />
-            <marker date="1517732435387" expanded="true" signature="145:184" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1032,9 +954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1042,21 +961,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
           <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <marker date="1517985136123" expanded="true" signature="0:42" ph="/** Created by Andre on 02/04/2018. ...*/" />
-            <marker date="1517985136123" expanded="true" signature="162:326" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="207:322" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="365:539" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="410:535" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="578:752" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="623:748" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="791:954" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="836:950" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="994:1171" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="1039:1167" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="1211:1381" ph="{...}" />
-            <marker date="1517985136123" expanded="true" signature="1256:1377" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1072,9 +976,7 @@
         <state relative-caret-position="148">
           <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
           <folding>
-            <marker date="1517726494764" expanded="false" signature="0:41" ph="/** Created by Family on 2/3/2018. ...*/" />
-            <marker date="1517726494764" expanded="true" signature="91:216" ph="{...}" />
-            <marker date="1517726494764" expanded="true" signature="150:192" ph="{...}" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1083,19 +985,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <marker date="1518329237391" expanded="true" signature="0:41" ph="/** Created by Andre on 2/10/2018. ...*/" />
-            <marker date="1518329237391" expanded="true" signature="209:414" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="273:410" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="469:642" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="517:638" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="697:870" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="745:866" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="926:1137" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="974:1133" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="1192:1379" ph="{...}" />
-            <marker date="1518329237391" expanded="true" signature="1240:1375" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1103,10 +993,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <marker date="1518336136703" expanded="true" signature="0:41" ph="/** Created by Family on 2/3/2018. ...*/" />
-            <marker date="1518336136703" expanded="true" signature="100:235" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1114,11 +1001,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <marker date="1517732435387" expanded="true" signature="0:41" ph="/** Created by Andre on 1/28/2018. ...*/" />
-            <marker date="1517732435387" expanded="true" signature="87:204" ph="{...}" />
-            <marker date="1517732435387" expanded="true" signature="145:184" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1142,7 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1154,18 +1036,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/titleCaseSentence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/titleCaseSentence_test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
+        <state relative-caret-position="404">
           <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/titleCaseSentence.js">
+    <entry file="file://$PROJECT_DIR$/test/largestArrayofArrays_test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="541">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/largestArrayofArrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
           <folding />
         </state>
       </provider>
