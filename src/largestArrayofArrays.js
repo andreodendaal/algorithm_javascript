@@ -1,5 +1,5 @@
 /**
- * Created by Andre on 2/24/2018.
+ * Created by Andre on 3/05/2018.
  */
 module.exports = function largestArrayofArrays(arr) {
 
@@ -14,8 +14,7 @@ module.exports = function largestArrayofArrays(arr) {
          }
          arrOfLargest.push(largest);
     }
-
-return arrOfLargest;
-}
+    return arrOfLargest;
+};
 
 
