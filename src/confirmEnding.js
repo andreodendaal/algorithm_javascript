@@ -1,18 +1,17 @@
 /**
- * Created by Family on 2/3/2018.
+ * Created by Family on 3/7/2018.
  */
 
-module.exports = function palindrome(str) {
-    var reverse_str = require('../src/reverseString.js');
-    var str = str.replace(/[_\W+]/g, '');
-    var strLower = str.toLowerCase();
-    var result = reverse_str(strLower);
+module.exports = function confirmEnding(str, target) {
 
-    if (result === strLower){
-        return true;
+    let strArr = str.split(' ');
+    let lastVal = ' ';
+    if(strArr.length == 1){
+        lastVal = str.slice(-1);
     } else {
-        return false;
+        lastVal = strArr.slice(-1);
     }
 
+    return lastVal == target;
 };
 
