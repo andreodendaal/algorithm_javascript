@@ -7,6 +7,13 @@ let confirmEnding = require('../src/confirmEnding.js');
 
 describe('confirmEnding', function () {
     it('Tests for confirmEnding', function () {
+        let result = confirmEnding("Open sesame", "same");
+        assert.equal(result, true, 'ending("Open sesame") is "same"');
+    });
+});
+
+describe('confirmEnding', function () {
+    it('Tests for confirmEnding', function () {
         let result = confirmEnding("Bastian", "n");
         assert.equal(result, true, 'ending("Bastian") is "n"');
     });

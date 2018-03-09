@@ -5,12 +5,9 @@
 module.exports = function confirmEnding(str, target) {
 
     let strArr = str.split(' ');
-    let lastVal = ' ';
-    if(strArr.length == 1){
-        lastVal = str.slice(-1);
-    } else {
-        lastVal = strArr.slice(-1);
-    }
+    let arrSlice =  target.length * -1;
+    let arrLast = strArr.length - 1;
+    let lastVal =  strArr[arrLast].slice(arrSlice);
 
     return lastVal == target;
 };
