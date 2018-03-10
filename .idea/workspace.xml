@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5977255-206c-4d81-a0ca-e6d0ac0a8a9b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/repeatStringNumTimes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/repeatStringNumTimes_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/truncateString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/truncateString_test.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/confirmEnding.js" afterPath="$PROJECT_DIR$/src/confirmEnding.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/longestWordinString.js" afterPath="$PROJECT_DIR$/src/longestWordinString.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/confirmEnding_test.js" afterPath="$PROJECT_DIR$/test/confirmEnding_test.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,16 +19,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="confirmEnding.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/confirmEnding.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="repeatStringNumTimes.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/repeatStringNumTimes.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,43 +29,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="repeatStringNumTimes_test.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="repeatStringNumTimes_test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/repeatStringNumTimes_test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            <state relative-caret-position="259">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="12" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="longestWordinString.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/longestWordinString.js">
+      <file leaf-file-name="truncateString.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/truncateString.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reverseString_test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/reverseString_test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="222">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding>
-                <element signature="e#0#42#0" expanded="false" />
+                <element signature="e#0#41#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="titleCaseSentence.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/titleCaseSentence.js">
+      <file leaf-file-name="truncateString_test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/truncateString_test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="482">
+              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -124,6 +101,8 @@
         <option value="$PROJECT_DIR$/src/longestWordinString.js" />
         <option value="$PROJECT_DIR$/src/repeatString.js" />
         <option value="$PROJECT_DIR$/test/repeatStringNumTimes_test.js" />
+        <option value="$PROJECT_DIR$/src/truncateString.js" />
+        <option value="$PROJECT_DIR$/test/truncateString_test.js" />
       </list>
     </option>
   </component>
@@ -140,7 +119,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
+    <option name="x" value="2549" />
     <option name="y" value="-11" />
     <option name="width" value="2582" />
     <option name="height" value="1042" />
@@ -183,6 +162,16 @@
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm_javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="algorithm_javascript" />
@@ -283,10 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.test\repeatStringNumTimes_test.js">
-    <configuration default="false" name="reverseStringRecursion.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="reverseStringRecursion.js" working-dir="$PROJECT_DIR$/src">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Mocha.test\truncateString_test.js">
     <configuration default="false" name="factorilizeNumberRecursion.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="factorilizeNumberRecursion.js" working-dir="$PROJECT_DIR$/src">
       <method />
     </configuration>
@@ -315,6 +301,18 @@
       <extra-mocha-options />
       <test-kind>TEST_FILE</test-kind>
       <test-file>$PROJECT_DIR$/test/repeatStringNumTimes_test.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="test\truncateString_test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/truncateString_test.js</test-file>
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -512,21 +510,21 @@
       <item index="5" class="java.lang.String" itemvalue="Mocha.test\pallindrome_test.js" />
       <item index="6" class="java.lang.String" itemvalue="Mocha.test\factorilizeNumberRecursion_test.js" />
       <item index="7" class="java.lang.String" itemvalue="Mocha.test\longestWordinString_test.js" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.reverseStringRecursion.js" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.factorilizeNumberRecursion.js" />
-      <item index="10" class="java.lang.String" itemvalue="Node.js.longestWordinString.js" />
-      <item index="11" class="java.lang.String" itemvalue="Mocha.test\titleCaseSentence_test.js" />
-      <item index="12" class="java.lang.String" itemvalue="Mocha.test\largestArrayofArrays_test.js" />
-      <item index="13" class="java.lang.String" itemvalue="Mocha.test\confirmEnding_test.js" />
-      <item index="14" class="java.lang.String" itemvalue="Mocha.test\repeatStringNumTimes_test.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.factorilizeNumberRecursion.js" />
+      <item index="9" class="java.lang.String" itemvalue="Node.js.longestWordinString.js" />
+      <item index="10" class="java.lang.String" itemvalue="Mocha.test\titleCaseSentence_test.js" />
+      <item index="11" class="java.lang.String" itemvalue="Mocha.test\largestArrayofArrays_test.js" />
+      <item index="12" class="java.lang.String" itemvalue="Mocha.test\confirmEnding_test.js" />
+      <item index="13" class="java.lang.String" itemvalue="Mocha.test\repeatStringNumTimes_test.js" />
+      <item index="14" class="java.lang.String" itemvalue="Mocha.test\truncateString_test.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Mocha.test\repeatStringNumTimes_test.js" />
-        <item index="1" class="java.lang.String" itemvalue="Mocha.test\titleCaseSentence_test.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.longestWordinString.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.factorilizeNumberRecursion.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.reverseStringRecursion.js" />
+        <item index="0" class="java.lang.String" itemvalue="Mocha.test\truncateString_test.js" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.test\repeatStringNumTimes_test.js" />
+        <item index="2" class="java.lang.String" itemvalue="Mocha.test\titleCaseSentence_test.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.longestWordinString.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.factorilizeNumberRecursion.js" />
       </list>
     </recent_temporary>
   </component>
@@ -549,7 +547,7 @@
       <workItem from="1517784970949" duration="16523000" />
       <workItem from="1519361731241" duration="3242000" />
       <workItem from="1519519361730" duration="9558000" />
-      <workItem from="1520315734440" duration="12975000" />
+      <workItem from="1520315734440" duration="16543000" />
     </task>
     <task id="LOCAL-00001" summary="additional factorial tests">
       <created>1517728491309</created>
@@ -562,48 +560,49 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test_confirmEnding_test_js - 2018.03.07 at 22h 35m 18s.xml">
-      <configuration name="test\confirmEnding_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_truncateString_test_js - 2018.03.09 at 21h 10m 33s.xml">
+      <configuration name="test\truncateString_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_confirmEnding_test_js - 2018.03.07 at 22h 42m 40s.xml">
-      <configuration name="test\confirmEnding_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_truncateString_test_js - 2018.03.09 at 21h 12m 44s.xml">
+      <configuration name="test\truncateString_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_confirmEnding_test_js - 2018.03.07 at 22h 43m 06s.xml">
-      <configuration name="test\confirmEnding_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_truncateString_test_js - 2018.03.09 at 21h 13m 52s.xml">
+      <configuration name="test\truncateString_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_confirmEnding_test_js - 2018.03.08 at 21h 13m 32s.xml">
-      <configuration name="test\confirmEnding_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_truncateString_test_js - 2018.03.09 at 21h 18m 51s.xml">
+      <configuration name="test\truncateString_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_confirmEnding_test_js - 2018.03.08 at 21h 16m 08s.xml">
-      <configuration name="test\confirmEnding_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_truncateString_test_js - 2018.03.09 at 21h 20m 09s.xml">
+      <configuration name="test\truncateString_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_confirmEnding_test_js - 2018.03.08 at 21h 18m 15s.xml">
-      <configuration name="test\confirmEnding_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_truncateString_test_js - 2018.03.09 at 21h 21m 34s.xml">
+      <configuration name="test\truncateString_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_confirmEnding_test_js - 2018.03.08 at 21h 20m 05s.xml">
-      <configuration name="test\confirmEnding_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_truncateString_test_js - 2018.03.09 at 21h 30m 32s.xml">
+      <configuration name="test\truncateString_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_repeatStringNumTimes_test_js - 2018.03.08 at 21h 36m 04s.xml">
-      <configuration name="test\repeatStringNumTimes_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_truncateString_test_js - 2018.03.09 at 21h 36m 02s.xml">
+      <configuration name="test\truncateString_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_repeatStringNumTimes_test_js - 2018.03.08 at 21h 38m 21s.xml">
-      <configuration name="test\repeatStringNumTimes_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_truncateString_test_js - 2018.03.09 at 21h 39m 14s.xml">
+      <configuration name="test\truncateString_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_repeatStringNumTimes_test_js - 2018.03.08 at 21h 38m 46s.xml">
-      <configuration name="test\repeatStringNumTimes_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="test_truncateString_test_js - 2018.03.09 at 21h 49m 10s.xml">
+      <configuration name="test\truncateString_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61688000" />
+    <option name="totallyTimeSpent" value="65256000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="2582" height="1042" extended-state="6" />
+    <frame x="2549" y="-11" width="2582" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.249901" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46967897" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24019025" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2413793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -663,22 +662,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/titleCaseSentence.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reverseString.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/longestWordinString.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
@@ -1011,30 +994,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/titleCaseSentence.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/confirmEnding.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repeatStringNumTimes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/confirmEnding_test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
@@ -1061,10 +1020,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/confirmEnding.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/titleCaseSentence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repeatStringNumTimes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/truncateString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/repeatStringNumTimes_test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        <state relative-caret-position="259">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/truncateString_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
           <folding />
         </state>
       </provider>
